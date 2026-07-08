@@ -5,12 +5,14 @@ Graph learning progress
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0207-course-schedule/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
@@ -19,6 +21,7 @@ Graph learning progress
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -28,12 +31,14 @@ Graph learning progress
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |

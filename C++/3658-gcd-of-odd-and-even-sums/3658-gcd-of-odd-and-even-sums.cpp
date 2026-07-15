@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int gcd(int sumEven,int sumOdd){
+    /*int gcd(int sumEven,int sumOdd){
         int x=min(sumEven,sumOdd);
         int ans=INT_MIN;
         for(int i=1;i<x+1;i++){
@@ -15,5 +15,8 @@ public:
         int sumOdd=n*n;
         int sumEven=n*(n+1);
         return gcd(sumEven,sumOdd);
+    }*/
+    int gcdOfOddEvenSums(int n) {
+      return n;
     }
 };

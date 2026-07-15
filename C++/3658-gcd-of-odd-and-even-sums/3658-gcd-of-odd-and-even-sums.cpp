@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int god(int sumEven,int sumOdd){
+    int gcd(int sumEven,int sumOdd){
         int x=min(sumEven,sumOdd);
         int ans=INT_MIN;
         for(int i=1;i<x+1;i++){
@@ -14,6 +14,6 @@ public:
         if(n==1) return n;
         int sumOdd=n*n;
         int sumEven=n*(n-1);
-        return god(sumEven,sumOdd);
+        return gcd(sumEven,sumOdd);
     }
 };

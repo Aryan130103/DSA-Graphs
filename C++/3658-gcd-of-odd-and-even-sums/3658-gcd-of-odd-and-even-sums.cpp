@@ -13,7 +13,7 @@ public:
     int gcdOfOddEvenSums(int n) {
         if(n==1) return n;
         int sumOdd=n*n;
-        int sumEven=n*(n-1);
+        int sumEven=n*(n+1);
         return gcd(sumEven,sumOdd);
     }
 };

@@ -55,6 +55,7 @@ Graph learning progress
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,16 +104,27 @@ Graph learning progress
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->

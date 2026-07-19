@@ -88,6 +88,7 @@ Graph learning progress
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/MySQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |

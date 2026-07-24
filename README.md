@@ -10,6 +10,7 @@ Graph learning progress
 | [0207-course-schedule](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -30,6 +31,7 @@ Graph learning progress
 | [0210-course-schedule-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -46,6 +48,7 @@ Graph learning progress
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
@@ -71,6 +74,7 @@ Graph learning progress
 | [0130-surrounded-regions](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0542-01-matrix/) | Medium |
+| [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/1020-number-of-enclaves/) | Medium |
@@ -133,6 +137,7 @@ Graph learning progress
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
+| [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3312-sorted-gcd-pair-queries/) | Hard |
 ## String
@@ -140,6 +145,7 @@ Graph learning progress
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/0127-word-ladder/) | Hard |
+| [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -174,6 +180,7 @@ Graph learning progress
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/0721-accounts-merge/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan130103/DSA-C-Graphs/tree/main/C++/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |

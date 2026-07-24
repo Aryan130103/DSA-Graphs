@@ -7,23 +7,21 @@ class disjointset{
         for(int i=0;i<=n;i++)
             parent[i]=i;
     }
-
     int ult_p(int n){
         if(n==parent[n]) return n;
         return parent[n]=ult_p(parent[n]);
     }
-
     void unionbysize(int u,int v){
         int UP=ult_p(u);
         int VP=ult_p(v);
         if(UP==VP) return;
         
         if(size[UP]<size[VP]){
-            parent[UP]=parent[VP];
+            parent[UP]=VP;
             size[VP]+=size[UP];
         }
         else{
-            parent[VP]=parent[UP];
+            parent[VP]=UP;
             size[UP]+=size[VP];
         }
     }
